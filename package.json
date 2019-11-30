@@ -1,0 +1,15 @@
+{
+  "name": "elastic-ledger",
+  "description": "Elastic simple ledger class to record async processes.",
+  "homepage": "https://github.com/ideamans/node-elastic-ledger",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "ava -v test.js",
+    "watch": "ava -vw test.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
